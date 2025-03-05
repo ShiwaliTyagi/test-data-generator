@@ -1,0 +1,7 @@
+{
+    "salary": "number",
+    "isActive": "boolean",
+    "dob": "date",
+    "gender": "string"
+  }
+  
